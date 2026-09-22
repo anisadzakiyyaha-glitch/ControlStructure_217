@@ -1,4 +1,4 @@
- #Write a PYTHON program to print Fibonacci series up to n!
+ #  Write a PYTHON program to print Fibonacci series up to n!
 n = int(input("Masukkan nilai n: "))
 
 a = 0
