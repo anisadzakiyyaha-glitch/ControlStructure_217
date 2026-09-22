@@ -1,4 +1,4 @@
-# Write a PYTHON program to evaluate the student performance
+#  Write a PYTHON program to evaluate the student performance 
 persen = float(input("Masukkan nilai persentase: "))
 
 if persen >= 90:
