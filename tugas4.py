@@ -1,4 +1,4 @@
-#Write a PYTHON program to print odd numbers up to n!
+#  Write a PYTHON program to print odd numbers up to n!
 n = int(input("Masukkan nilai n: "))
 
 for i in range(1, n + 1, 2):
