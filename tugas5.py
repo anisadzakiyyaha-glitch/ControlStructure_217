@@ -1,4 +1,4 @@
-# Write a PYTHON program to produce following design
+#  Write a PYTHON program to produce following design
 n = int(input("Masukkan nilai n: "))
 
 for i in range(1, n + 1):
